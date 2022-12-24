@@ -1,0 +1,25 @@
+# Site settings
+title: a little french spice
+email: info@alittle.frenchspice.co
+logo_url: assets/images/logo_grey_s.png
+description: spice up your French lessons
+baseurl: "" #"/eventually" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+#backgroundImage
+img_url: https://source.unsplash.com/collection/4545138/1920x900
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: #https://gitlab.com/u/andrewbanchich
+googleplus_url: #https://plus.google.com/u/0/+AndrewBanchich
+instagram_url:
+linkedin_url: #https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: #https://twitter.com/andrewbanchich
+
+# Build settings
+markdown: kramdown
